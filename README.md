@@ -8,3 +8,6 @@ Abrir no GithubPages: https://sartorileonardo.github.io/clone-page-instagram-dio
 
 ## Fonte
 Curso "Recriando a página inicial do instagram", oferecido por: https://digitalinnovation.one/
+
+## Bonus
+Quadro de avaliaçao de plataforma.
